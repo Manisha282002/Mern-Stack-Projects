@@ -1,0 +1,9 @@
+_id,emp_id,emp_name,email,phone,dept_id,role,date_of_joining,salary
+670e2c552ad8251e9e46bba1,101,Riyan Ahuja,riyan12@gmail.com,987765443210,321,Frontend-Developer,12-oct-2022,20000
+670e2e172ad8251e9e46bbc7,102,Shreya Gupta,shreya@gmail.com,8775432138,765,Backend-Developer,15-Nov-2023,25000
+670e2e282ad8251e9e46bbc8,103,Arjun Rajvanshi,arjun@gmail.com,8789432138,785,Backend-Developer,15-Dec-2023,25000
+670e2e9b2ad8251e9e46bbc9,104,Garima Tripathi,garima@gmail.com,9775432138,965,Tester,10-july-2024,22000
+670e2efa2ad8251e9e46bbca,105,shradha Gupta,shradha@gmail.com,9775432138,235,Android-Developer,15-march-2023,25000
+670e2f722ad8251e9e46bbcb,106,Raj Thakur,raj@gmail.com,9675432138,765,web-Developer,15-April-2023,21000
+670e2fd22ad8251e9e46bbcc,107,John Roy,john@gmail.com,3475432138,465,fullstack-Developer,23-Nov-2023,25000
+670e30372ad8251e9e46bbcd,108,Kanchan Rajput,kanchan@gmail.com,8975432138,985,Tester,25-DEC-2020,22000
